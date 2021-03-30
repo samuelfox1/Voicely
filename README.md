@@ -30,17 +30,22 @@ Voicely is a loginless messaging and notekeeping app featuring speech-to-text, S
 <br>
 <br>
 
+
+## Product
+
+[Live Site URL](https://chomieu.github.io/Voicely/)
+
+![Screenshot](./mockups/screenshot.png)
+
+<br>
+
 ## User Story
 
 ```
 AS AN internet user with limited ability to use my hands
 I WANT a way to take notes, make lists, and send messages that requires limited hand usage
 SO THAT I can communicate with friends and coworkers, and save important notes for myself
-```
 
-## Acceptance Criteria
-
-```
 GIVEN a blank text area and interface
 WHEN I press the New Voicely button
 THEN a file is created in localStorage that can be edited and accessed at will
@@ -55,13 +60,6 @@ WHEN I press it and input a phone number
 THEN my text area content is delivered
 ```
 
-## Product
-
-[Live Site URL](https://chomieu.github.io/Voicely/)
-
-![Screenshot](./mockups/screenshot.png)
-<br>
-<br>
 ## Technologies
 
 ![javascript](https://img.shields.io/badge/javascript-99.9%25-yellow)
